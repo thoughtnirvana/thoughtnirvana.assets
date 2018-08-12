@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="134.4604mm"
+   height="135.56595mm"
+   viewBox="0 0 134.4604 135.56595"
    version="1.1"
    id="svg1281"
    inkscape:export-filename="/Users/rahul/Pictures/logo.png"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="357.74392"
-     inkscape:cy="781.68424"
+     inkscape:cx="251.84477"
+     inkscape:cy="440.58184"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,10 +38,16 @@
      inkscape:window-height="878"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5">
     <inkscape:grid
        type="xygrid"
-       id="grid1730" />
+       id="grid1730"
+       originx="-28.019148"
+       originy="-90.250011" />
   </sodipodi:namedview>
   <metadata
      id="metadata1278">
@@ -58,7 +64,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-28.019149,-71.184044)">
     <g
        id="g1716"
        transform="matrix(0.32616092,0,0,0.22061625,2.4304734,76.184044)"
